@@ -61,9 +61,11 @@ TranslatLy — это веб-переводчик на базе ИИ, котор
 ## 🔗 Ссылки
 
 - 🌐 Сайт: https://translatly.onrender.com
-- 📣 Telegram: **ADD_LINK_HERE**
-- 💼 Freelancehunt: **ADD_LINK_HERE**
-- 🛠 Kabanchik: **ADD_LINK_HERE**
+- 📩 Email: kostiantyn.lk22@gmail
+- 💬 Telegram: @WinGor0
+- 📣 Telegram-канал: https://t.me/kostiantyn_dev0
+- 💼 Freelancehunt: https://freelancehunt.com/applicant/JDWNl.html
+- 🛠 Freelance-kabanchik: https://kabanchik.ua/user/3854933
 
 ---
 
