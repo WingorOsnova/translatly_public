@@ -1,6 +1,6 @@
 # TranslatLy — AI Translator (PWA)
 
-![TranslatLy cover](assets/web_app.png)
+![TranslatLy cover](assets/cover_translatLy.png)
 
 TranslatLy is a web-based AI translator that works like a native app.  
 It was built as a personal project to practice backend development, API design, and real-world architecture.

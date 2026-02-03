@@ -1,6 +1,6 @@
 # TranslatLy — KI-Übersetzer (PWA)
 
-![TranslatLy cover](assets/web_app.png)
+![TranslatLy cover](assets/cover_translatLy.png)
 
 TranslatLy ist ein KI-basierter Web-Übersetzer, der wie eine App funktioniert.  
 Das Projekt wurde als persönliche Entwicklung zur Verbesserung von Backend- und Full-Stack-Fähigkeiten erstellt.

@@ -1,6 +1,6 @@
 # TranslatLy — AI-переводчик (PWA)
 
-![TranslatLy cover](assets/web_app.png)
+![TranslatLy cover](assets/cover_translatLy.png)
 
 TranslatLy — это веб-переводчик на базе ИИ, который работает как приложение.  
 Проект сделан как личная разработка для практики backend и full-stack навыков.
